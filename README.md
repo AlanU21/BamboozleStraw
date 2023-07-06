@@ -1,4 +1,4 @@
-# Bamboozle Straw
+# BamboozleStraw
 ## Overview
 Bamboozle Straw is an informational platform promoting our eco-friendly, durable, and reusable bamboo straws! This repository hosts the code for the website.
 
