@@ -12,7 +12,7 @@ Bamboozle Straw is an informational platform promoting our eco-friendly, durable
 ## Installation
 Prerequisites: Node.js (>=14.x.x) with npm/yarn
 
-1. Clone the repository: git clone https://github.com/yourusername/bamboozle-straw.git
+1. Clone the repository: git clone https://github.com/AlanU21/bamboozle-straw.git
 
 2. Navigate into the project directory: cd bamboozle-straw
 
